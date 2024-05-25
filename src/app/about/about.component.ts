@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AboutComponent {
 
-  infos={name:"MANZAN", email:"ehueni35@gmail.com"};
+  infos={name:"ANGORA", email:"ehueni.angora@gmail.com"};
 
 }

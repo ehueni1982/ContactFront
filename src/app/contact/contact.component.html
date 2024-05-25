@@ -9,11 +9,12 @@
     </div>
     <table class="table table-striped">
       <tr>
-        <th>Nom</th><th>Prénom</th><th>Email</th><th>Tel</th><th>DateNaissance</th>
+        <th>ID</th><th>Nom</th><th>Prénom</th><th>Email</th><th>Tel</th><th>DateNaissance</th>
       </tr>
       <tr *ngFor="let c of pageContacts?.content">
         <td>{{c.id}}</td>
         <td>{{c.nom}}</td>
+        <td>{{c.prenom}}</td>
         <td>{{c.email}}</td>
         <td>{{c.tel}}</td>
         <td>{{c.dateNaissance}}</td>
