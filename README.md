@@ -12,6 +12,12 @@
 
 ![image](https://github.com/ehueni1982/ContactFront/assets/157939806/2eb64075-3c70-4ba3-b6da-37fec6352ba5)
 
+Editer un contact
+![image](https://github.com/ehueni1982/ContactFront/assets/157939806/02c2d50a-d8e3-41c7-86eb-8354aaa40d66)
+
+Supprimer un contact
+![image](https://github.com/ehueni1982/ContactFront/assets/157939806/a86117cc-256c-4a8f-b578-e9c08df7ec8c)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
