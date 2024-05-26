@@ -5,6 +5,12 @@
 
 ![image](https://github.com/ehueni1982/ContactFront/assets/157939806/d88b26c2-4912-42d0-8734-b5aaaf647ec7)
 
+![image](https://github.com/ehueni1982/ContactFront/assets/157939806/f944b75a-b6a9-4666-a8df-6ae226ed213a)
+
+
+![image](https://github.com/ehueni1982/ContactFront/assets/157939806/411b388f-4d20-4d96-ae0c-55cbd309d8f5)
+
+![image](https://github.com/ehueni1982/ContactFront/assets/157939806/2eb64075-3c70-4ba3-b6da-37fec6352ba5)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
