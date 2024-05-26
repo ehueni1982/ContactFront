@@ -1,34 +1,8 @@
 # Contacts
 
 
->![image](https://github.com/ehueni1982/ContactFront/assets/157939806/f011bdb4-f03f-43d5-8815-3341c8cd0b33)
+![image](https://github.com/ehueni1982/ContactFront/assets/157939806/d88b26c2-4912-42d0-8734-b5aaaf647ec7)
 
->![image](https://github.com/ehueni1982/ContactFront/assets/157939806/025fc8a4-3d67-4683-9492-de95843ac6a7)
-
-
-
->![image](https://github.com/ehueni1982/ContactFront/assets/157939806/475859de-332c-4268-8fb9-954299c01418)
-
-
->![image](https://github.com/ehueni1982/ContactFront/assets/157939806/30d530bd-dbb8-42ab-a15d-fad59184da89)
-
-
-![image](https://github.com/ehueni1982/ContactFront/assets/157939806/f011bdb4-f03f-43d5-8815-3341c8cd0b33)
-
-![image](https://github.com/ehueni1982/ContactFront/assets/157939806/025fc8a4-3d67-4683-9492-de95843ac6a7)
-
-
-
-![image](https://github.com/ehueni1982/ContactFront/assets/157939806/475859de-332c-4268-8fb9-954299c01418)
-
-
-![image](https://github.com/ehueni1982/ContactFront/assets/157939806/30d530bd-dbb8-42ab-a15d-fad59184da89)
-
-
-
-![image](https://github.com/ehueni1982/ContactFront/assets/157939806/27aadb5e-5f03-484f-bc92-95abb0653945)
-
->![image](https://github.com/ehueni1982/ContactFront/assets/157939806/27aadb5e-5f03-484f-bc92-95abb0653945)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
